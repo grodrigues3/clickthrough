@@ -1,0 +1,8 @@
+Base Rate for First 1 Million Samples: .2549 or 25% 1s
+
+Columns 1-13: Counts
+
+
+C1-C26 are categorical features
+    C1: 1261 Categories
+
